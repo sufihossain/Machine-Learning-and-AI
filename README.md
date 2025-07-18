@@ -1,2 +1,2 @@
 # Machine-Learning-and-AI
-All my ML and AI projects, they are all in different branches, please click on "main" and then select the project
+All my ML and AI projects. They are all in different branches. Please click on "main" in the top left corner, and then select the project
